@@ -1,0 +1,3 @@
+D:/backup/data/c/CocCoc inern/build/CMakeFiles/robot_draw.dir
+D:/backup/data/c/CocCoc inern/build/CMakeFiles/edit_cache.dir
+D:/backup/data/c/CocCoc inern/build/CMakeFiles/rebuild_cache.dir
