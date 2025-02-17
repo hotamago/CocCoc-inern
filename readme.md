@@ -2,7 +2,7 @@
 
 ```
 cd build
-cmake ../src
+cmake ../src -G"Unix Makefiles"
 make
 ```
 
